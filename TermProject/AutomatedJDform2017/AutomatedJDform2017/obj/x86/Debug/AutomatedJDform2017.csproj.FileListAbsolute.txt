@@ -1,0 +1,10 @@
+C:\Users\micha\Documents\GEOG 489\TermProject\AutomatedJDform2017\AutomatedJDform2017\obj\x86\Debug\AutomatedJDform2017.Form1.resources
+C:\Users\micha\Documents\GEOG 489\TermProject\AutomatedJDform2017\AutomatedJDform2017\obj\x86\Debug\AutomatedJDform2017.Properties.Resources.resources
+C:\Users\micha\Documents\GEOG 489\TermProject\AutomatedJDform2017\AutomatedJDform2017\obj\x86\Debug\AutomatedJDform2017.csproj.GenerateResource.Cache
+C:\Users\micha\Documents\GEOG 489\TermProject\AutomatedJDform2017\AutomatedJDform2017\bin\Debug\AutomatedJDform2017.exe
+C:\Users\micha\Documents\GEOG 489\TermProject\AutomatedJDform2017\AutomatedJDform2017\bin\Debug\AutomatedJDform2017.pdb
+C:\Users\micha\Documents\GEOG 489\TermProject\AutomatedJDform2017\AutomatedJDform2017\bin\Debug\ESRI.ArcGIS.System.dll
+C:\Users\micha\Documents\GEOG 489\TermProject\AutomatedJDform2017\AutomatedJDform2017\bin\Debug\ESRI.ArcGIS.System.xml
+C:\Users\micha\Documents\GEOG 489\TermProject\AutomatedJDform2017\AutomatedJDform2017\obj\x86\Debug\AutomatedJDform2017.exe
+C:\Users\micha\Documents\GEOG 489\TermProject\AutomatedJDform2017\AutomatedJDform2017\obj\x86\Debug\AutomatedJDform2017.pdb
+C:\Users\micha\Documents\GEOG 489\TermProject\AutomatedJDForm2017\AutomatedJDform2017\obj\x86\Debug\AutomatedJDform2017.csprojResolveAssemblyReference.cache
